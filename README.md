@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daniella Ndzana Eloundou Rhode
 
-<!--
-**daniella-ndzana/daniella-ndzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Licence IABD** — Intelligence Artificielle & Bases de Données  
+Keyce Informatique — Cameroun
 
-Here are some ideas to get you started:
+## Objectif
+Master en Data Science & AI en Allemagne — Bourse DAAD STEM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Calendrier
+- **Février 2027** : 1er semestre results
+- **Août-Sept 2027** : 2ème semestre results
+- **Sept-Oct 2027** : Diplôme
+- **Janvier 2028** : Début Master en Allemagne
+
+## Projets
+- [ ] Projet 1 : Analyse exploratoire (EDA)
+- [ ] Projet 2 : Modèle Machine Learning
+- [ ] Projet 3 : Application Web + BDD
+- [ ] Projet 4 : Pipeline ETL
+
+## Contact
+daniella.ndzana.eloundou@gmail.com
